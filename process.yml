@@ -1,5 +1,5 @@
 apps:
-  - script: src/index.js
-    name: chat
+  - script: index.js
+    name: slack
     env_production:
       NODE_ENV: production
